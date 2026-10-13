@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/chromadesk">
+        <file>theme.qss</file>
+        <file>logo.svg</file>
+        <file>ChromaDesk-logo-1024.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+ChromaDesk 0.4.2
+Copyright (c) 2026. All rights reserved by the project owner.
+
+This package is a development baseline prepared for the owner. No licence to
+redistribute the ChromaDesk application source is granted by this notice.
+
+Third-party frameworks and libraries retain their respective copyrights and
+licences. See THIRD_PARTY.md before building a distributable binary.
