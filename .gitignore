@@ -1,0 +1,10 @@
+/build/
+/dist/
+/out/
+/vcpkg_installed/
+/.qt/
+/.cache/
+CMakeUserPresets.json
+*.user
+*.DS_Store
+Thumbs.db
